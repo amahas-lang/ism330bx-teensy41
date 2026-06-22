@@ -1,0 +1,5 @@
+teensy_firmware/.pio/
+teensy_firmware/.vscode/
+__pycache__/
+*.pyc
+.DS_Store
